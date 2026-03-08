@@ -25,7 +25,9 @@ A simple operational dashboard summarizing:
 
 ## Purpose
 
-This project was created to demonstrate structured coordination and operational tracking commonly used in after-sales support and service environments.
+This project reflects the type of structured coordination and tracking work I supported in previous roles, such as maintaining organized overviews of requests, tracking task progress, and supporting communication between teams.
+
+The dashboard simulates how customer inquiries, spare-parts offers, and technical escalations can be monitored in an after-sales service workflow.
 
 All data used in this project is fictional and created purely for demonstration purposes.
 
